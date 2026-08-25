@@ -1,0 +1,13 @@
+google.com
+github.com
+example.com
+youtube.com
+wikipedia.org
+reddit.com
+amazon.com
+openai.com
+facebook.com
+instagram.com
+x.com
+discord.com
+meduza.io
